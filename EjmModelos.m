@@ -2,7 +2,7 @@ close all;
 clear all;
 clc;
 
-Datos=xlsread('Libro1.xlsx');
+Datos=xlsread('Datos.xlsx');
 tiempo = Datos(:,1);
 respuesta = Datos(:,2);
 escalon = Datos(:,3);
