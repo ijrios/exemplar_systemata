@@ -32,7 +32,7 @@ En general es necesario depurar los datos antes de poder analizarlos en Matlab. 
 1.	Grafique en una sola figura la señal de entrada (escalón en % apertura) y la salida (variable controlada).
 
 <p align="center">
-  <img src="signla.png" width="350" title="hover text">
+  <img src="signal.png" width="350" title="hover text">
 </p>
 
 Grafica 1: señal de entrada(Escalón) y señal de salida(Variable controlada)
