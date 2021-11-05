@@ -6,9 +6,9 @@ Generar el modelo de un sistema físico a través de pruebas realizadas en la pl
 
 # Objetivos específicos
 
-•	Hallar la Respuesta Temporal, RT, de un sistema físico ante una entrada tipo escalón.
-•	Hallar modelos matemáticos de primero y segundo orden del sistema.
-•	Simular y comprobar la validez del modelo.
+1.	Hallar la Respuesta Temporal, RT, de un sistema físico ante una entrada tipo escalón.
+2.	Hallar modelos matemáticos de primero y segundo orden del sistema.
+3.	Simular y comprobar la validez del modelo.
 
 
 # PROCEDIMIENTO
