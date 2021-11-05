@@ -31,7 +31,10 @@ En general es necesario depurar los datos antes de poder analizarlos en Matlab. 
 
 1.	Grafique en una sola figura la señal de entrada (escalón en % apertura) y la salida (variable controlada).
 
- 
+<p align="center">
+  <img src="signla.png" width="350" title="hover text">
+</p>
+
 Grafica 1: señal de entrada(Escalón) y señal de salida(Variable controlada)
 
 Se puede ver que en la obtención de los datos había un porcentaje de apertura del 18%, luego se generó una apertura de 5% obteniendo una apertura del 23%.
@@ -52,6 +55,9 @@ Observe las gráficas, compare los resultados y elija los modelos de primer y se
 
 A continuación, utilice el criterio de la raíz del error cuadrático medio cuadrado, para elegir los mejores modelos, uno de primer orden y otro de segundo orden.
 
+<p align="center">
+  <img src="formula.png" width="250" title="hover text">
+</p>
 
 Donde N es el número de datos, tamaño del vector.
 
