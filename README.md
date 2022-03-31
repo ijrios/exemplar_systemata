@@ -61,5 +61,7 @@ A continuación, utilice el criterio de la raíz del error cuadrático medio cua
 
 Donde N es el número de datos, tamaño del vector.
 
-
+<p align="center">
+  <img src="Diagrama.jpg" width="250" title="hover text">
+</p>
 
